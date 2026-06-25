@@ -6,6 +6,7 @@ gpt-4o-2024-05-13,5.00,1000000,15.00,1000000,OpenAI
 gpt-4o,2.50,1000000,10.00,1000000,OpenAI
 gpt-4o-2024-11-20,2.50,1000000,10.00,1000000,OpenAI
 gpt-4o-2024-08-06,2.50,1000000,10.00,1000000,OpenAI
+gpt-5.4,2.50,1000000,15.00,1000000,OpenAI
 gpt-4.1-mini,0.4,1000000,1.6,1000000,OpenAI
 gpt-4.1-mini-2025-04-14,0.4,1000000,1.6,1000000,OpenAI
 gpt-4.1-nano-2025-04-14,0.4,1000000,1.6,1000000,OpenAI
@@ -19,6 +20,7 @@ gemini-1.5-flash,0.075,1000000,0.3,1000000,Google Gemini
 gemini-1.5-flash-8b,0.0375,1000000,0.15,1000000,Google Gemini
 gemini-1.5-pro,1.25,1000000,5.00,1000000,Google Gemini
 gemini-1.0-pro,0.50,1000000,1.50,1000000,Google Gemini
+gemini-3.5-flash,1.50,1000000,9,1000000,Google Gemini
 amazon.titan-text-lite-v1,0.00015,1000,0.0002,1000,Amazon Bedrock
 anthropic.claude-3-haiku-20240307-v1:0,0.00025,1000,0.00125,1000,Amazon Bedrock
 anthropic.claude-v2:1,0.008,1000,0.024,1000,Amazon Bedrock
